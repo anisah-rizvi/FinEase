@@ -1,3 +1,1 @@
 # FinEase 
-fr
-insane
